@@ -22,7 +22,6 @@ search = DuckDuckGoSearchRun(name = "Search")
 st.title("🔎 LangChain - Chat with search")
 """
 """
-
 # In this example, we're using `StreamlitCallbackHandler` to display the thoughts and actions of an agent in an interactive Streamlit app.
 # Streamlit Agent examples at [github.com/langchain-ai/streamlit-agent](https://github.com/langchain-ai/streamlit-agent)
 
